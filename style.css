@@ -1,0 +1,92 @@
+body {
+    font-family: 'Arial', sans-serif;
+   
+    background-image: url('lukas1.jpg');
+    background-size: cover;
+    background-attachment: fixed; 
+    color: #594c4b;
+    text-align: center;
+    padding: 20px;
+    margin: 0; 
+}
+
+
+.lyrics {
+    margin: 0 auto;
+    max-width: 600px;
+    background-color: #c4eae0;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 1.5);
+    opacity: 0.9;
+    
+}
+
+h1 {
+    font-family: 'Pacifico', cursive;
+    font-size: 35px;
+    color: #da6319;
+    margin-bottom: 20px;
+    
+}
+
+p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 18px;
+    line-height: 1.6;
+    color: #984819;
+}
+
+.old1 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #4178af; 
+}
+.old2 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #9a915a; 
+}
+.old3 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #974654; 
+}
+.old4 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b2875c; 
+}
+.old5 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #7a3c72; 
+}
+.old6 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #632e46; 
+}
+.old7 {
+    font-size: 21px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: #b19171; 
+}
+.singer{
+    position: absolute;
+    top: 90px;
+    left: 800px;
+    font-size: 13px;
+}
+.part1 p{
+    color: #5d851e;
+}
+.part2 p{
+    color: rgb(71, 79, 139);
+}
+.part3 p{
+    color: rgb(106, 29, 73);
+}
+.part4 p{
+    color: #279ab1;
+}
